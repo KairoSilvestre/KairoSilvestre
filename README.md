@@ -1,7 +1,7 @@
 ## Olá! Sejam muito bem-vindos(a) 🚀
-💻 Estou cursando a graduação em <strong style="color: #C3186B">Engenharia de Software</strong>.
+💻 Cursando a graduação em <strong style="color: #C3186B">Engenharia de Software</strong>.
 <br>
-🏫 Atualmente estou estudando sobre: <strong style="color: #C3186B">React.js | Python | Tailwind.css</strong>
+🏫 Atualmente estudando sobre: <strong style="color: #C3186B">React.js | Python | Tailwind.css</strong>
 <br>
 🌐 Tecnologias mais usadas no dia a dia: <strong style="color: #C3186B">HTML5 & CSS | React.js | JavaScript</strong>
 <br>
