@@ -1,9 +1,9 @@
 ## Olá! Sejam muito bem-vindos(a) 🚀
 💻 Cursando a graduação em <strong style="color: #C3186B">Engenharia de Software</strong>.
 <br>
-🏫 Atualmente estudando sobre: <strong style="color: #C3186B">JAVA | Python | SQL </strong>
+🏫 Atualmente estudando sobre: <strong style="color: #C3186B"> JAVA | Python | SQL </strong>
 <br>
-🌐 Tecnologias mais usadas: <strong style="color: #C3186B">| JAVA | HTML5 & CSS | JavaScript | Python</strong>
+🌐 Tecnologias mais usadas: <strong style="color: #C3186B"> JAVA | HTML5 & CSS | JavaScript | Python</strong>
 <br>
 
 <h3>Sobre domínio:</h3>
