@@ -15,11 +15,3 @@
     <img aling="center" alt="React.js"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <!-- <img aling="center" alt="Tailwind.css"src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
 </div>
-
-### Contatos: 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kairo-carvalho-4713672b8/)
-
-![KairoSilvestre GitHub stats](https://github-readme-stats.vercel.app/api?username=KairoSilvestre&show_icons=true&theme=dracula)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KairoSilvestre&hide_progress=true&theme=dracula)
